@@ -6,6 +6,7 @@ public class gitprogram1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("first program hai");
+		System.out.println("first prdfihgidjgfjdkhjfglhjlfg");
 	}
 
 }
