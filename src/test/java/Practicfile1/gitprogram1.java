@@ -7,6 +7,9 @@ public class gitprogram1 {
 
 		System.out.println("first program hai");
 		System.out.println("first prdfihgidjgfjdkhjfglhjlfg");
+		System.out.println("To verify of the commit");
+
+		
 	}
 
 }
